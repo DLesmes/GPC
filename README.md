@@ -11,3 +11,4 @@ Build tools to assist Kaggle developers
 * [Gemma in PyTorch](https://ai.google.dev/gemma/docs/pytorch_gemma)
 * [Quick Start on Kaggel](https://www.kaggle.com/docs/notebooks)
 * [GPC Notebook - file sumbmition](https://www.kaggle.com/dlesmes/gpc-gemma-python-chat/edit)
+* [Gemma Fine-Tunning](https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb#scrollTo=gSsRdeiof_rJ)
