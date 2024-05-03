@@ -5,6 +5,8 @@ This code is generated for the kaggel competition
 [**Google – AI Assistants for Data Tasks with Gemma**](https://www.kaggle.com/competitions/data-assistants-with-gemma/overview)
 Build tools to assist Kaggle developers
 
+🥇🥇 [This was the notebook submited to the competition!](https://www.kaggle.com/code/dlesmes/gemma-python-chat-gpc) 🥇🥇
+
 ## Sources
 ### Model use
 * [google/gemma](https://www.kaggle.com/models/google/gemma/frameworks/flax/code)
